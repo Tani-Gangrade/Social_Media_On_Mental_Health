@@ -1,7 +1,7 @@
 # Social Media on Mental Health
 
  ## Project Overview
- This project analyzes the impact of social media on mental health using machine learning techniques. The goal is to identify patterns, sentiment trends, and correlations between social media usage and mental well-being. 
+This project analyzes the impact of social media on mental health using machine learning techniques. The goal is to identify patterns, sentiment trends, and correlations between social media usage and mental well-being. 
 
 ## Features
 1. Data Collection and Preprocessing
