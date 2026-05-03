@@ -8,9 +8,9 @@ This project analyzes the impact of social media on mental health using machine 
 - Sentiment Analysis of social media posts
 - Exploratory Data Analysis (EDA) and Data Visualisation
 - Machine learning models for prediction
-5. Deployment of project on Flask API
+- Deployment of project on Flask API
 
 ## Result and Insights
-1. Analysis of sentiment trends based on social media posts.
-2. Machine learning model performance evaluation.
-3. Key takeaways on how social media affects mental health. 
+- Analysis of sentiment trends based on social media posts
+- Machine learning model performance evaluation
+- Key takeaways on how social media affects mental health
